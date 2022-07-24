@@ -5,7 +5,7 @@ In this Python Reinforcement Learning Tutorial series we teach an AI to play Sna
 
 
 
-- First of all run this command pip instal -r requirements.txt
+- First of all run this command pip install -r requirements.txt
 - Part 1: To start game run the file named as Agent.py for automated Snake.
 - For running the file type Python agent.py in terminal
 - Part 2: To playing the game manually you need to run file named as snake_game_human.py
